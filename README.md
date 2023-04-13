@@ -5,7 +5,7 @@ Example Data Science Portfolio
 
 Apocalypse Dataset:
 
-(https://github.com/SwatiDatalance/PowerBI-Food-Project/blob/main/Apocolypse%20Food%20Prep.xlsx)
+![](https://github.com/SwatiDatalance/PowerBI-Food-Project/blob/main/Apocolypse%20Food%20Prep.xlsx)
 
 Determine two things:
 
@@ -14,7 +14,7 @@ Should I buy all the products at the same place or are there certain products th
 
 Apocolypse Food Prep - Visualizations :
 
-(https://github.com/SwatiDatalance/PowerBI-Food-Project/blob/main/Apocolypse%20Food%20Prep%20-%20Visualizations.pbix)
+![](https://github.com/SwatiDatalance/PowerBI-Food-Project/blob/main/Apocolypse%20Food%20Prep%20-%20Visualizations.pbix)
 
 Now we know that Costco is the place to go for basically every single product except if we're buying rice and if we want to save just a few dollars we're going to head over to Target and this will change my shopping habits for the next several years until the apocalypse happens.
 
